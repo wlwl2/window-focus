@@ -1,0 +1,24 @@
+{
+  "name": "window-focus",
+  "main": "./lib/window-focus",
+  "version": "0.0.0",
+  "description": "Shows a clear visual indicator on the part of the atom editor that is focused.",
+  "keywords": [
+    "window",
+    "editor",
+    "focus",
+    "indicator",
+    "tree-view",
+    "tree",
+    "view"
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/atom/window-focus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
