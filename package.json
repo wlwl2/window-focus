@@ -1,7 +1,7 @@
 {
   "name": "window-focus",
   "main": "./lib/window-focus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shows a clear visual indicator on the part of the atom editor that is focused.",
   "keywords": [
     "window",
