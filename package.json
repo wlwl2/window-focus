@@ -14,7 +14,7 @@
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/window-focus",
+  "repository": "https://github.com/wlwl2/window-focus",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
